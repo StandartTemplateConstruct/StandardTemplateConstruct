@@ -9,8 +9,11 @@ An exhaustive set of software and hardware that allows 20 humanoid workers to bu
  - [Control System for Flying Drones](https://github.com/StandartTemplateConstruct/SkyEyeAI)
 
 
+# Recipes
 
-# Woodwork shop recipes
+Recipes are recorded by [HumanRecorder](https://github.com/StandartTemplateConstruct/HumanRecorder)
+
+## Woodwork
 
  - Piano
  - Guitar
@@ -18,11 +21,11 @@ An exhaustive set of software and hardware that allows 20 humanoid workers to bu
  - Violin
  - Barrel
 
-# Metalwork shop recipes
+## Metalwork
 
  - Barrel
 
-# Shoe factory recipes
+## Shoe factory
 
  - Sandals: Wood/Plastic
 
