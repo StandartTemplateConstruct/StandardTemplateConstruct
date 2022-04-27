@@ -61,5 +61,5 @@ For construction of human dwellings
  - in case of non-cooperation of corporation that's software is needed for the project, decade long ultimatum will be issued. If in 10 years from ultimatum date proprietary software source code/build tools is not given to STC project, OpenSource alternative will be developed
  - open source hardware should have priority for inclusion only if it's a) educational or b) leading in class
  - use leading in class proprietary hardware
- - use manufacturers provided software, 
+   - use manufacturers provided software
 
