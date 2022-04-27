@@ -62,4 +62,6 @@ For construction of human dwellings
  - open source hardware should have priority for inclusion only if it's a) educational or b) leading in class
  - use leading in class proprietary hardware
    - use manufacturers provided software
+     - except for system control software. Use ROS for that
+     - except for visualization, use UnrealEngine for that
 
