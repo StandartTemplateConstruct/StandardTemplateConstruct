@@ -12,6 +12,19 @@ An exhaustive set of software and hardware that allows 20 humanoid workers to bu
  - [Control System for Flying Drones](https://github.com/StandartTemplateConstruct/SkyEyeAI)
 
 
+## StandardTemplateDirector
+A server application responsible for coordination of workers building [StandardTemplateCity](https://github.com/StandartTemplateCity)
+
+## Build Site Survailance
+
+ - [Control System for Flying Drones](https://github.com/StandartTemplateConstruct/SkyEyeAI)
+
+## Workers Communication
+
+ - [Application for Humans](https://github.com/StandartTemplateConstruct/StandardTemplareApp)
+ - [Humanoid Robot Adapter](https://github.com/StandartTemplateConstruct/StandardTemplareAppTeslaBotAdapter)
+
+
 # Recipes
 
 Recipes are recorded by [HumanRecorder](https://github.com/StandartTemplateConstruct/HumanRecorder)
