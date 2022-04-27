@@ -58,5 +58,8 @@ For construction of human dwellings
 
  - hardware is ever changing, established codebase of mature software projects - is eternal
  - all leading in class proprietary software, all underlying tools will be available to the humans in STC as a buildable in virtual machines code (and code necessary to build those build VMs using only files on disk and latest Ubuntu) on the release day
- - 
+ - in case of non-cooperation of corporation that's software is needed for the project, decade long ultimatum will be issued. If in 10 years from ultimatum date proprietary software source code/build tools is not given to STC project, OpenSource alternative will be developed
+ - open source hardware should have priority for inclusion only if it's a) educational or b) leading in class
+ - use leading in class proprietary hardware
+ - use manufacturers provided software, 
 
