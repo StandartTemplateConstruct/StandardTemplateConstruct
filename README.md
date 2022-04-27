@@ -67,3 +67,6 @@ For construction of human dwellings
  - humanoid robot can repeat actions of the person in a workshop, if robot is placed in the same workshop
  - auto clicker robot can repeat actions of person doing boring repetitive actions on the screen
  - voluntary surveillance strictly used to train models for solving the greatest problems of humanity with AI is good
+ - flat consumer general computing system, such as Windows, iOS and OS X, have reached their maximum potential of development as of 2022, could be run in its current state in the virtual machines on the hardware that is manufactured by colony
+ - hard to manufacture without proper tech tree on a scale needed components, such as microchips, would be prepackaged with information how to produce them at scale
+ - wood will be prepackaged for deployment of human habitat/on-site prototype construction in woodless environments 
