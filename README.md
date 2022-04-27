@@ -64,4 +64,6 @@ For construction of human dwellings
    - use manufacturers provided software
      - except for system control software. Use ROS for that
      - except for visualization, use UnrealEngine for that
-
+ - humanoid robot can repeat actions of the person in a workshop, if robot is placed in the same workshop
+ - auto clicker robot can repeat actions of person doing boring repetitive actions on the screen
+ - Survailance strictly used to train models for solving the greatest problems of humanity with AI is good
