@@ -2,6 +2,8 @@
 
 *Docker for human civilization*
 
+QR code of slack link
+
 An exhaustive set of software and hardware that allows 20 humanoid workers to build out StandardTemplateCity in a year
 
 # Software
