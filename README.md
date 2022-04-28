@@ -1,7 +1,5 @@
 # StandardTemplateConstruct
 
-*Docker for human civilization*
-
 QR code of slack link
 
 QR code of Noisebridge discord 
