@@ -70,3 +70,192 @@ For construction of human dwellings
  - flat consumer general computing system, such as Windows, iOS and OS X, have reached their maximum potential of development as of 2022, could be run in its current state in the virtual machines on the hardware that is manufactured by colony
  - hard to manufacture without proper tech tree on a scale needed components, such as microchips, would be prepackaged with information how to produce them at scale
  - wood will be prepackaged for deployment of human habitat/on-site prototype construction in woodless environments 
+
+
+#### old
+
+# STC
+STC is a toolkit for building industrial human civilization from scratch
+
+Unless mentioned otherwise, all devices are shipped in form of the raw materials and a recipe to build them on the mini-factory.
+
+# Manufacturing machines
+
+## Humanoid robot
+
+Programmatically controlled. Provides vision and positioning over similar to SkyEye protocol
+
+## Mini-Factory
+
+
+All items in factory are built using this factory.
+
+A humanoid operated factory. List of equipment:
+
+### CNC Router
+
+### PCB mill
+
+### 3d printer
+
+### Assemly tools
+
+## Ceramics manufacturing mini-factory
+
+## Wood processing mini-factory
+
+## Metal processing mini-factory 
+
+# Components 
+
+## General computing server platform
+
+## Small vehicle computing platform
+
+## Large vehicle computing platform
+
+
+# Professional devices
+
+## Building construction toolkit
+
+## Medical toolkit
+
+## Farming toolkit
+
+## Cooking toolkit
+
+## Sports toolkit
+
+## Experimental science toolkits
+ 
+
+### Chemistry
+
+### Physics
+
+### Optics
+
+### Radioelectronics
+
+### Nuclear
+
+## Arts and crafts toolkit
+
+
+
+
+
+# Consumer devices
+
+## AR glasses
+
+## Paper printer platform
+
+## Display panel platform
+
+## Projector platform
+
+## Radio voice communicaticator
+
+## A drawing tablet
+
+
+## General computing tablet
+### eInk display modification
+
+## General computing laptop
+
+
+## Small quadcopter drone
+
+Vision only
+
+## Large quadcopter drone
+
+Cargo carrier
+
+## Small unmanned universal wheel/track robo platform
+
+Up to 1 kg of useful payload
+
+
+## Medium unmanned universal wheel/track robo platform
+
+Up to 100 kg of useful payload
+
+## Industrial manipulator arm
+
+## Building construction crane
+
+## Medical procedures/surgery room
+
+## Manned universal wheel/track robo platform
+
+Up to 5000 kg of useful payload
+
+
+# Libraries for human consumption
+
+## Sciences
+
+## Enginering
+
+
+# Datasets
+
+## Martial arts video data set
+
+## Movies data set
+
+## Science/Engineering videos data set
+
+## Fiction books and audiobooks data set 
+
+
+## All existing available ML datasets 
+# Software
+
+## General computing environment 
+
+Archive of modern OSS software
+
+## Social
+
+## Entertainment
+
+### Dataset Video Streaming Plaform
+
+## Construction
+
+### Architect.app
+
+Orchestrating the buildings construction by bots and AR glasses driven humans.
+
+## Farming
+
+### Farmer.app
+
+Orchestrating the open land farming using androids and AR glasses driven humans.
+
+## Software engineering
+
+### Various libraries
+
+#### SkyEyeProtocol
+
+A internet drone positioning/recognized objects reporting protocol and implementation compatible with current consumer hardware   
+
+Reference implementation has GPS less positioning - positioning that is relative to the worksite according to drone's cameras  
+
+### Machine Learning
+
+
+
+### Video and Image labeling 
+
+#### zendo by deepai.org
+
+Price negotiable 
+
+#### Mixtream Browser
